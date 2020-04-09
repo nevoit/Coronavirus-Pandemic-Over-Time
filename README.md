@@ -1,10 +1,6 @@
 # Coronavirus-Pandemic-Over-Time
 Total number of deaths by country over time. 
 
-Dataset from here: [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset "Novel Corona Virus 2019 Dataset")
-
-Based on this tutorial: [How To Visualize the Coronavirus Pandemic with Choropleth Maps](https://towardsdatascience.com/visualizing-the-coronavirus-pandemic-with-choropleth-maps-7f30fccaecf5 "How To Visualize the Coronavirus Pandemic with Choropleth Maps")
-
 ## Getting Started
 1. Get a free API Key at [https://www.kaggle.com/](https://www.kaggle.com/) (My account -> Create New API Token)
 See a tutorial at [https://github.com/Kaggle/kaggle-api#api-credentials](https://github.com/Kaggle/kaggle-api#api-credentials).
@@ -20,6 +16,11 @@ api_token = {"username":"","key":""}
 
 ## Animated Choropleth Map Over Time:
 ![Animated](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/animated_choropleth.gif?raw=true "Animated")
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+* Based on [How To Visualize the Coronavirus Pandemic with Choropleth Maps](https://towardsdatascience.com/visualizing-the-coronavirus-pandemic-with-choropleth-maps-7f30fccaecf5)
 
 <!-- CONTRIBUTING -->
 ## Contributing
