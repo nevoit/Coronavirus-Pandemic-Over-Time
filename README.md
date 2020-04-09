@@ -4,7 +4,7 @@ Total number of deaths by country over time.
 ## Getting Started
 1. Get a free API Key at [https://www.kaggle.com/](https://www.kaggle.com/) (My account -> Create New API Token)
 See a tutorial at [https://github.com/Kaggle/kaggle-api#api-credentials](https://github.com/Kaggle/kaggle-api#api-credentials).
-2. Add your API token by changing this line to:
+2. Add your API token by changing this line:
 ```sh
 api_token = {"username":"","key":""}
 ```
