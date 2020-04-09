@@ -1,5 +1,5 @@
 # Coronavirus-Pandemic-Over-Time
-Total number of deaths cases of the coronavirus by country over time. 
+Total number of deaths by country over time. 
 
 Dataset from here: [Novel Corona Virus 2019 Dataset](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset "Novel Corona Virus 2019 Dataset")
 
