@@ -16,6 +16,8 @@ api_token = {"username":"","key":""}
 
 ## Animated Choropleth Map Over Time:
 ![Animated](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/figures/animated_choropleth.gif?raw=true "Animated")
+
+If you hover the mouse pointer over the country, more details will be displayed (for example, country name and total number of deaths).
 ![Animated](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/figures/animated_hover.png?raw=true "Animated")
 
 <!-- ACKNOWLEDGEMENTS -->
