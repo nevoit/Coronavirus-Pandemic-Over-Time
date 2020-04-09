@@ -12,10 +12,10 @@ api_token = {"username":"","key":""}
 
 ## Static Choropleth by Date:
 
-![static](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/static_choropleth.png?raw=true "static")
+![static](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/figures/static_choropleth.png?raw=true "static")
 
 ## Animated Choropleth Map Over Time:
-![Animated](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/animated_choropleth.gif?raw=true "Animated")
+![Animated](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/figures/animated_choropleth.gif?raw=true "Animated")
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
