@@ -27,9 +27,9 @@ api_token = {"username":"","key":""}
 Any contributions you make are **greatly appreciated**.
 
 1. Fork the Project
-2. Create your Feature Branch (`git checkout -b nevoit/Coronavirus-Pandemic-Over-Time`)
-3. Commit your Changes (`git commit -m 'my first comment'`)
-4. Push to the Branch (`git push origin nevoit/Coronavirus-Pandemic-Over-Time`)
+2. Create your Branch
+3. Commit your Changes
+4. Push to the Branch
 5. Open a Pull Request
 
 <!-- LICENSE -->
