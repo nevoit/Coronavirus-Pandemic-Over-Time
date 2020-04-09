@@ -16,6 +16,7 @@ api_token = {"username":"","key":""}
 
 ## Animated Choropleth Map Over Time:
 ![Animated](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/figures/animated_choropleth.gif?raw=true "Animated")
+![Animated](https://github.com/nevoit/Coronavirus-Pandemic-Over-Time/blob/master/figures/animated_hover.png?raw=true "Animated")
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
